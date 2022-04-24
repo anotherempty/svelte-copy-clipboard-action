@@ -13,6 +13,10 @@ export function clipboard(node, { trigger = "click", text = "" } = {}) {
   node.addEventListener(trigger, handle, true);
 
   return {
+    update: ({ tr = trigger, txt = text } = {}) => {
+      trigger = tr;
+      text = txt;
+    },
     destroy() {
       node.removeEventListener(trigger, handle, true);
     },
