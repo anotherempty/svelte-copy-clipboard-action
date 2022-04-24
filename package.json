@@ -1,0 +1,25 @@
+{
+  "name": "svelte-copy-clipboard-action",
+  "version": "0.0.1",
+  "description": "A Svelte action to copy to clipboard",
+  "main": "src/index.js",
+  "keywords": [
+    "svelte",
+    "svelte-action",
+    "copy",
+    "clipboard"
+  ],
+  "author": {
+    "name": "anotherempty",
+    "url": "https://github.com/anotherempty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anotherempty/svelte-copy-clipboard-action.git"
+  },
+  "homepage": "https://anotherempty.github.io/svelte-copy-clipboard-action/",
+  "bugs": {
+    "url": "https://github.com/anotherempty/svelte-copy-clipboard-action/issues"
+  },
+  "license": "MIT"
+}
