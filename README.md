@@ -1,5 +1,7 @@
 # Svelte Copy Clipboard Action
 
+[See the demo](https://anotherempty.github.io/svelte-copy-clipboard-action/)
+
 ## Installation
 
 ```sh
